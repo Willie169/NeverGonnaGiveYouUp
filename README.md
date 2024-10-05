@@ -1,4 +1,4 @@
-![ghRelease](https://img.shields.io/github/v/release/Willie169/mancala-android)
+![ghRelease](https://img.shields.io/github/v/release/Willie169/NeverGonnaGiveYouUp)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 # NeverGonnaGiveYouUp
 This implementation of "Never Gonna Give You Up" is developed for Android.
